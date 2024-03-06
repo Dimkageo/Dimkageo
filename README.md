@@ -4,6 +4,11 @@
 
 ### A little more about me...
 [![Linkedin: Dmytro](https://img.shields.io/badge/-Dmytro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-chystiakov-994841287/)](https://www.linkedin.com/in/dmytro-chystiakov-994841287/)
+- 📫 How to reach me **dimkageo1@gmail.com**
+- 📝 Education: "IT School GoIT"
+- 🔭 open to vork
+
+
 <!--
 https://www.linkedin.com/in/dmytro-chystiakov-994841287/
 **Dimkageo/Dimkageo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
