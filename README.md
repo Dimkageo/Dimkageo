@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dmytro</h1>
 
+<h3 align="center">A JAVA DEVELOPER</h1>
+
+### A little more about me...
+[![Linkedin: Dmytro](https://img.shields.io/badge/-Dmytro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-chystiakov-994841287/)](https://www.linkedin.com/in/dmytro-chystiakov-994841287/)
 <!--
+https://www.linkedin.com/in/dmytro-chystiakov-994841287/
 **Dimkageo/Dimkageo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
