@@ -6,7 +6,7 @@
 [![Linkedin: Dmytro](https://img.shields.io/badge/-Dmytro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-chystiakov-994841287/)](https://www.linkedin.com/in/dmytro-chystiakov-994841287/)
 - 📫 How to reach me **dimkageo1@gmail.com**
 - 📝 Education: "IT School GoIT"
-- 🔭 open to vork
+- 🔭 open to work
 
 
 <!--
