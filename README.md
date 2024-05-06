@@ -5,7 +5,7 @@
 ### A little more about me...
 [![Linkedin: Dmytro](https://img.shields.io/badge/-Dmytro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytro-chystiakov-994841287/)](https://www.linkedin.com/in/dmytro-chystiakov-994841287/)
 - 🌐 [http:](https://chystiakov-d.netlify.app/) 
-- 📫 How to reach me **dimkageo1@gmail.com**
+- 📫 How to reach me **dmytrocoder44@gmail.com**
 - 📝 Education: "IT School GoIT"
 - 🔭 open to work 
 
